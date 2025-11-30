@@ -1,0 +1,7 @@
+prefect
+duckdb
+pandas
+requests
+pyarrow
+matplotlib
+seaborn
